@@ -6,7 +6,7 @@
 sudo apt-get install git
 ```
 
-![fig1](..\图片\fig1.png)
+![fig1](../图片/fig1.png)
 
 **全局配置**
 
